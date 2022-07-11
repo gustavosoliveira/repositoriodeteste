@@ -1,1 +1,1 @@
-Isso é uma descrição super básica.
+Essa descrição é melhor que a outra.
